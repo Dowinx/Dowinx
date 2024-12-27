@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Doryan</h1>
 <h3 align="center">A beginner frontend and video game developer from Reunion Island</h3>
 
-- 🌱 I’m currently learning **Javascript and C#**
+- 🌱 I’m currently learning **Javascript and C**
 
 - 📫 How to reach me **dowinxoff@gmail.com**
 
